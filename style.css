@@ -1,5 +1,5 @@
 html {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 .header {
   color: rgb(6, 102, 147);
@@ -11,29 +11,30 @@ html {
   font-size: 0.8em;
 }
 main {
-  margin: 50em;
+  margin-left: 30%;
   margin-top: 5em;
   margin-bottom: 5em;
 }
 p {
-  font-size: 1.2rem;
+  font-size: 1.2em;
 }
 hr {
   border-top: 1px solid rgb(255, 200, 0);
 }
 h1 {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   text-align: center;
+  margin-right: 40%;
 }
 h2 {
-  font-weight: 8bold00;
-  font-size: 1.5rem;
+  font-size: 1.5em;
+  font-weight: 700;
 }
 
 h3 {
   font-size: 1.3em;
-  font-weight: 8bold00;
+  font-weight: 1000;
 }
 video.focaccia {
   border-radius: 8px;
@@ -42,7 +43,7 @@ video.focaccia {
   box-shadow: 5px 5px #88888837;
 }
 img.logo {
-  width: 15em;
+  width: 15%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -56,9 +57,15 @@ img.logo {
 .feature {
   color: rgb(234, 5, 5);
   font-size: 1em;
+  font-weight: 1000px;
 }
 div.feature {
   border-left: 2px solid rgb(255, 176, 18);
+}
+p.feature {
+  color: rgb(234, 5, 5);
+  font-size: 1em;
+  font-weight: 1000px;
 }
 div.line {
   border-top: 1px solid rgb(48, 95, 239);
@@ -68,7 +75,7 @@ a.feature {
 }
 
 footer {
-  margin: 50em;
+  margin: 15%;
   margin-top: 5em;
   margin-bottom: 5em;
 }
