@@ -14,10 +14,7 @@ img.logo {
   margin-left: auto;
   margin-right: auto;
 }
-.imgtxt {
-  text-align: center;
-  color: rgb(162, 162, 162);
-}
+
 .header {
   color: rgb(6, 102, 147);
   text-align: center;
@@ -61,4 +58,10 @@ footer {
 }
 a.feature {
   color: rgb(38, 150, 255);
+}
+#imgtxt {
+  position: relative;
+
+  transform: translateX(24em);
+  color: rgb(162, 162, 162);
 }
