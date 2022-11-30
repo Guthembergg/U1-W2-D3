@@ -20,6 +20,7 @@ img.logo {
   color: rgb(6, 102, 147);
   text-align: center;
   background-color: rgba(211, 189, 62, 0.123);
+  height: 2.8em;
 }
 
 p {
@@ -65,4 +66,7 @@ a.feature {
   position: relative;
   transform: translateX(18em);
   color: rgb(162, 162, 162);
+}
+#head {
+  font-size: 0.8em;
 }
