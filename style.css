@@ -63,10 +63,6 @@ a.feature {
 }
 #imgtxt {
   position: relative;
-
-  transform: translateX(24em);
+  transform: translateX(18em);
   color: rgb(162, 162, 162);
-}
-h3 {
-  font-size: 1em;
 }
