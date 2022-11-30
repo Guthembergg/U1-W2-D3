@@ -1,0 +1,64 @@
+h1 {
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+video.focaccia {
+  border-radius: 8px;
+  width: 60em;
+  display: block;
+}
+img.logo {
+  width: 30em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgtxt {
+  text-align: center;
+  color: rgb(162, 162, 162);
+}
+.header {
+  color: rgb(6, 102, 147);
+  text-align: center;
+  background-color: rgba(211, 189, 62, 0.123);
+}
+
+p {
+  font-size: 1.1rem;
+}
+hr {
+  border-top: 1px solid rgb(255, 200, 0);
+}
+hr.secondary {
+  border-top: 1px solid rgb(47, 96, 255);
+}
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+.feature {
+  color: rgb(234, 5, 5);
+}
+div.line {
+  border-top: 1px solid rgb(48, 95, 239);
+}
+div.feature {
+  border-left: 2px solid rgb(255, 176, 18);
+}
+main {
+  margin: 32em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+footer {
+  margin: 32em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+a.feature {
+  color: rgb(38, 150, 255);
+}
